@@ -25,7 +25,7 @@
         };
   layer2 {
           bindings = <
-          &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT &kp CARET &AMPS &kp STAR &kp LPAR &kp RPAR &kp TAB &kp F2 &kp ESCAPE &kp GRAVE &kp PAGE_UP &kp F20 &trans &trans &trans &kp BACKSLASH &kp K_UNDO &kp K_CUT &kp K_COPY &kp K_PASTE &kp PAGE_DOWN &kp F20 &kp F20 &kp F20 &kp F20 &to 7 &kp F20 &kp F20 &kp TAB &mo 3 &kp F20 &kp LGUI &mo 3 &kp SPACE &kp ENTER &trans &kp RIGHT_ALT
+          &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT &kp CARET &AMPS &kp STAR &kp LPAR &kp RPAR &kp TAB &kp F2 &kp ESCAPE &kp GRAVE &kp PAGE_UP &kp F20 &trans &trans &trans &kp BACKSLASH &kp K_UNDO &kp K_CUT &kp K_COPY &kp K_PASTE &kp PAGE_DOWN &kp F20 &kp F20 &kp F20 &kp F20 &to 7 &kp TAB &mo 3 &kp F20 &kp LGUI &mo 3 &kp SPACE &kp ENTER &trans &kp RIGHT_ALT
           >;
         };
   layer3 {
