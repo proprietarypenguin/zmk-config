@@ -87,7 +87,7 @@
 // |     |     |     |     |     |   |     |     |     |     |     |
 //                    | GUI |     | SPC |   | ENT |     | ALT |
                         bindings = <
-   &trans &trans &trans &trans &trans &trans       &trans &trans &trans &kp DEL &trans 
+   &trans &trans &trans &trans &trans &trans       &trans &trans &trans &trans &kp DEL &trans 
    &trans &trans &trans &trans &trans &trans       &trans &trans &trans &trans &trans &trans 
    &trans &kp LSHFT &trans &trans &trans &trans    &trans &trans &trans &trans &trans &trans 
                &kp LGUI &trans &kp SPACE    &kp RET &trans &kp RALT
