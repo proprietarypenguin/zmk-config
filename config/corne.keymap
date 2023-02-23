@@ -77,7 +77,7 @@
                vim_layer {
                         bindings = <
    &trans &kp GRAVE &trans &trans &trans &trans        &trans &trans &trans &trans &kp DEL &trans 
-   &trans &trans &trans &trans &trans &trans      &kp LEFT &kp DOWN &kp UP &kp RIGHT &APOS &trans 
+   &trans &trans &trans &trans &trans &trans      &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp APOS &trans 
    &trans &trans &trans &trans &trans &trans    &trans &trans &trans &trans &kp RET &trans 
             &kp LGUI &trans &kp SPACE        &trans &trans &trans
                         >;
