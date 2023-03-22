@@ -78,7 +78,7 @@
                         bindings = <
    &trans &kp GRAVE &trans &trans &trans &trans        &trans &trans &trans &trans &kp DEL &trans 
    &trans &trans &trans &trans &trans &trans      &kp LEFT &kp DOWN &kp UP &kp RIGHT &kp APOS &trans 
-   &trans &trans &trans &trans &trans &trans    &trans &trans &trans &trans &kp RET &trans 
+   &trans &trans &trans &trans &trans &trans    &kp HOME &kp END &kp PG_UP &kp PG_DN &kp RET &trans 
             &kp LGUI &trans &kp SPACE        &trans &trans &trans
                         >;
                };
